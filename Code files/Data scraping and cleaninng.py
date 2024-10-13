@@ -97,9 +97,9 @@ def save_posts_to_excel(posts_data, filename='reddit_data.xlsx'):
 
 def main():
     # Define Reddit API credentials
-    client_id = 'LA3LKSRylCsCaQvtciFvlw'
-    client_secret = 'Gi9EikLF4Ai0OKBQWLoVv_mJz7wWEw'
-    user_agent = 'CapX/0.1 by Frosty-Farmer-397'
+    client_id = 'your_client_id'
+    client_secret = 'you_client_secret'
+    user_agent = 'your_user_agent'
 
     # Initialize Reddit client
     reddit = initialize_reddit_client(client_id, client_secret, user_agent)

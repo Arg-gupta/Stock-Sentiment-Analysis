@@ -42,8 +42,8 @@ pip install pandas yfinance scikit-learn matplotlib seaborn vaderSentiment openp
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone <https://github.com/Arg-gupta/Stock-Sentiment-Analysis.git>
+cd <Stock-Sentiment-Analysis>
 ```
 Ensure your Reddit API credentials are set up correctly in the scraping code.
 
